@@ -1,6 +1,5 @@
 # Chrono Warp: Time Dilation Visualization
 
-## A space exploration project
 
 ## Introduction
 
