@@ -33,10 +33,3 @@ Inspired by *Interstellar*, this project explores the science of time dilation, 
 ## License
 
 Licensed under the MIT License.
-"""
-
-# Write the content to the README.md file
-with open("README.md", "w") as file:
-    file.write(readme_content)
-
-print("README.md file has been created.")
